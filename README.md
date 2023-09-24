@@ -9,12 +9,10 @@ Projeto de 4 (quatro) Dashboards desenvolvidos durante o curso **Intensivão de 
 Após publicar, não consegui fazer com que fosse exibido o mapa em "Faturamento por Continente". Como o Dashboard ficou incompleto, resolvi não informar o link.
 
 ![Imagem 1](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-1.png)
-## 2) [![Dashboard de Produção](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-2.png)](https://app.powerbi.com/view?r=eyJrIjoiNTMyNWIzZWItZWE5Mi00MzY2LThkZjYtM2ZlYzg0YWIxMDE2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
-
-
-![Imagem 2](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-2.png)
-## 3) [Dashboard de Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiOWQ5YjAzNWMtZGVhNy00ODA2LWJhNjgtMDNmZmQ2NDllYzM2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
-![Imagem 3](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-3.png)
+## 2) Dashboard de Produção (clique na imagem para abrir a publicação)
+[![Dashboard 2](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-2.png)](https://app.powerbi.com/view?r=eyJrIjoiNTMyNWIzZWItZWE5Mi00MzY2LThkZjYtM2ZlYzg0YWIxMDE2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
+## 3) Dashboard de Recursos Humanos (clique na imagem para abrir a publicação)
+[![Dashboard 3](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-3.png)](https://app.powerbi.com/view?r=eyJrIjoiOWQ5YjAzNWMtZGVhNy00ODA2LWJhNjgtMDNmZmQ2NDllYzM2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
 ## 4) Dashboard Financeiro
 [...]
 
