@@ -6,7 +6,7 @@ Projeto de 4 (quatro) Dashboards desenvolvidos durante o curso **Intensivão de 
 
 # Layout
 ## 1) Dashboard de Relatório de Vendas
-![Imagem 1](https://github.com/scgalves/powerbiIntensivao/blob/main/assets/presentation/pratica-1.jpg)
+![Imagem 1](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-1.png)
 ## 2) Dashboard de Produção
 https://app.powerbi.com/view?r=eyJrIjoiNTMyNWIzZWItZWE5Mi00MzY2LThkZjYtM2ZlYzg0YWIxMDE2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9
 ## 3) Dashboard de Recursos Humanos
