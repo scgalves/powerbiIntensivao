@@ -6,7 +6,7 @@ Projeto de 4 (quatro) Dashboards desenvolvidos durante o curso **Intensivão de 
 
 # Layout
 ## 1) Dashboard de Vendas
-Após publicar, não consegui fazer com que fosse exibido o mapa. Como o Dashboard ficou incompleto, resolvi não informar o link.
+Após publicar, não consegui fazer com que fosse exibido o mapa em "Faturamento por Continente". Como o Dashboard ficou incompleto, resolvi não informar o link.
 
 ![Imagem 1](https://github.com/scgalves/powerbiIntensivao/blob/main/pratica-1.png)
 ## 2) Dashboard de Produção
