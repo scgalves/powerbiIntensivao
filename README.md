@@ -22,7 +22,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOWQ5YjAzNWMtZGVhNy00ODA2LWJhNjgtMDNmZmQ2N
 - Microsoft Power BI Desktop
 
 # Referências
-[HasTag Treinamentos](https://www.hashtagtreinamentos.com/)
+[HashTag Treinamentos](https://www.hashtagtreinamentos.com/)
 
 # Autor
 Sérgio Carlos Guimarães Alves
