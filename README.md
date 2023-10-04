@@ -6,7 +6,7 @@ Projeto de 4 (quatro) Dashboards desenvolvidos durante o curso **Intensivão de 
 
 # Layout dos Dashboards
 ## 1) Vendas
-![Imagem 1](https://github.com/scgalves/powerbiIntensivao/blob/main/img/pratica/pratica-1.png)
+Clique na imagem abaixo para visualizar e interagir com o relatório publicado.[![Imagem 1](https://github.com/scgalves/powerbiIntensivao/blob/main/img/pratica/pratica-1.png)](https://app.powerbi.com/view?r=eyJrIjoiMjVkNTJjNmYtZTUyOS00MWRkLWJiNWMtOTE3YzQwYzliNWMzIiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
 ## 2) Produção
 Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 [![Dashboard 2](https://github.com/scgalves/powerbiIntensivao/blob/main/img/pratica/pratica-2.png)](https://app.powerbi.com/view?r=eyJrIjoiNTMyNWIzZWItZWE5Mi00MzY2LThkZjYtM2ZlYzg0YWIxMDE2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
@@ -14,10 +14,11 @@ Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 [![Dashboard 3](https://github.com/scgalves/powerbiIntensivao/blob/main/img/pratica/pratica-3.png)](https://app.powerbi.com/view?r=eyJrIjoiOWQ5YjAzNWMtZGVhNy00ODA2LWJhNjgtMDNmZmQ2NDllYzM2IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
 ## 4) Movimentações do Financeiro
+Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 [![Dashboard 4](https://github.com/scgalves/powerbiIntensivao/blob/main/img/pratica/pratica-4.png)](https://app.powerbi.com/view?r=eyJrIjoiYzYxNDk4MDItY2FlNC00MGNlLTk5NGEtM2RlN2NmMGJlNzlkIiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
 
 # Tecnologia utilizada
-- Microsoft Power BI Desktop versão 2.121.762.0.
+- Microsoft Power BI Desktop versão 2.121.762.0 64-bit (agosto de 2023).
 
 # Referências
 [HashTag Treinamentos](https://www.hashtagtreinamentos.com/)
